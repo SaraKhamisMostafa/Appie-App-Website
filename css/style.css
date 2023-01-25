@@ -1,0 +1,41 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.mynav{
+    background-color: white;
+}
+.nav-item{
+    margin: 0 10px;
+}
+.myback{
+    height: 500px;
+    width: 500px;
+    background: #ff3e66;
+    border-radius: 50%;
+}
+.text-subtitle{
+    color:#2b70fa; 
+    font-size: 14px;
+    font-weight: 500;
+}
+.text-title{
+    font-size: 60px; 
+    color: #0e1133;  
+    font-weight: 900;
+}
+.text-p{
+    font-size: 18px;
+}
+.banner-btn{
+    padding: 10px 30px;
+    border:2px solid #0e1133 ;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.btn-1{
+background-color: #0e1133;
+color: white;
+}
+.btn-2{
+color: #0e1133;
+}
