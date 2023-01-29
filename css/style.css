@@ -226,3 +226,33 @@ color: #0e1133;
     font-size: 14px;
     box-shadow: 0px 6px 10px 0px rgb(16 73 189 / 30%);
 }
+.mybtn{
+    background: transparent;
+    color: #0e1133;
+    border: 2px solid #e7eaef;
+
+    text-decoration: none;
+}
+.mybtn:hover{
+    background: #2b70fa;
+    color: #fff;
+}
+.aboutussection{
+    background-color: blue;
+}
+.aboutussection-title{
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    padding-top: 10px;
+}
+.myspan{
+    font-size: 14px;
+    color: #fff; 
+    opacity: 0.5;
+}
+.aboutussection-p{
+    font-size: 20px;
+    color: #fff; 
+    line-height: 30px; 
+}
